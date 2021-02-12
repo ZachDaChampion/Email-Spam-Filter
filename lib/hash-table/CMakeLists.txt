@@ -7,4 +7,4 @@ enable_testing()
 
 set(LIBRARY_OUTPUT_PATH lib)
 
-add_library(hash STATIC hash.cpp hash.hpp)
+add_library(hashtable STATIC hashtable.hpp hash.cpp hash.hpp)

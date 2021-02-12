@@ -16,4 +16,16 @@ namespace hash {
  * @return A 64-bit unsigned integer that represents the hash of the data.
  */
 uint64_t fnv1a_64(std::string data);
+
+/**
+ * @brief A simple hash algorithm used for testing.
+ * 
+ * Simply sums the characters in data and mods that sum by 10.
+ * This algorithm is designed to have many collisions in order to more easily test the hash table.
+ * Should not be used for a production hash table.
+ * 
+ * @param data The data, in string form, that is to be hashed.
+ * @return A 64-bit unsigned integer that represents the hash of the data. 
+ */
+uint64_t mod10(std::string data);
 }  // namespace hash
