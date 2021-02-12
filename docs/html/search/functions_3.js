@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['remove_17',['remove',['../class_hash_entry.html#af5aeb3ce708d2376e1cacc3ea04b7a3b',1,'HashEntry::remove()'],['../class_hash_table.html#a8ab8aaa146cb7ec8883662fb01aaba63',1,'HashTable::remove()']]]
+  ['hashentry_20',['HashEntry',['../class_hash_entry.html#a8bb4538df74a047cf6fb3091ce743984',1,'HashEntry']]],
+  ['hashtable_21',['HashTable',['../class_hash_table.html#ae6d65c744844441250f2616e9609787f',1,'HashTable']]]
 ];

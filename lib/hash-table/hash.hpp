@@ -3,6 +3,9 @@
 #include <cstdint>
 #include <string>
 
+/**
+ * @brief Hash functions that can be used for a hash table.
+ */
 namespace hash {
 
 /**
