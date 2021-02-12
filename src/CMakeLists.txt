@@ -5,10 +5,11 @@ project(Email-Spam-Filter VERSION 0.1.0)
 include(CTest)
 enable_testing()
 
-include_directories(lib/hash-table)
+set(EXECUTABLE_OUTPUT_PATH bin)
 
-add_subdirectory(lib/hash-table)
-add_subdirectory(src)
+add_executable(Email-Spam-Filter main.cpp)
+
+target_link_libraries(Email-Spam-Filter hashtable)
 
 set(CPACK_PROJECT_NAME ${PROJECT_NAME})
 set(CPACK_PROJECT_VERSION ${PROJECT_VERSION})
