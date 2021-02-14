@@ -1,0 +1,31 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$struct_catch_1_1_matchers_1_1_impl_1_1_matcher_method.html" title=" " alt="" coords="5,169,195,211"/>
+<area shape="rect" id="node2" href="$struct_catch_1_1_matchers_1_1_impl_1_1_matcher_base.html" title=" " alt="" coords="265,235,434,276"/>
+<area shape="rect" id="node3" href="$struct_catch_1_1_matchers_1_1_impl_1_1_matcher_base.html" title=" " alt="" coords="255,300,444,341"/>
+<area shape="rect" id="node4" href="$struct_catch_1_1_matchers_1_1_impl_1_1_matcher_base.html" title=" " alt="" coords="260,366,439,422"/>
+<area shape="rect" id="node5" href="$struct_catch_1_1_matchers_1_1_impl_1_1_matcher_base.html" title=" " alt="" coords="260,23,439,79"/>
+<area shape="rect" id="node6" href="$struct_catch_1_1_matchers_1_1_impl_1_1_matcher_base.html" title=" " alt="" coords="270,104,429,145"/>
+<area shape="rect" id="node10" href="$struct_catch_1_1_matchers_1_1_impl_1_1_matcher_base.html" title=" " alt="" coords="243,169,456,211"/>
+<area shape="rect" id="node7" href="$struct_catch_1_1_matchers_1_1_impl_1_1_match_all_of.html" title=" " alt="" coords="535,5,685,47"/>
+<area shape="rect" id="node8" href="$struct_catch_1_1_matchers_1_1_impl_1_1_match_any_of.html" title=" " alt="" coords="533,71,687,112"/>
+<area shape="rect" id="node9" href="$struct_catch_1_1_matchers_1_1_impl_1_1_match_not_of.html" title=" " alt="" coords="535,136,685,177"/>
+<area shape="rect" id="node11" href="$struct_catch_1_1_matchers_1_1_impl_1_1_matcher_method.html" title=" " alt="" coords="25,551,175,592"/>
+<area shape="rect" id="node12" href="$struct_catch_1_1_matchers_1_1_impl_1_1_matcher_base.html" title=" " alt="" coords="274,551,425,592"/>
+<area shape="rect" id="node13" href="$class_catch_1_1_matchers_1_1_exception_1_1_exception_message_matcher.html" title=" " alt="" coords="516,864,704,905"/>
+<area shape="rect" id="node14" href="$struct_catch_1_1_matchers_1_1_floating_1_1_within_abs_matcher.html" title=" " alt="" coords="524,929,696,971"/>
+<area shape="rect" id="node15" href="$struct_catch_1_1_matchers_1_1_floating_1_1_within_rel_matcher.html" title=" " alt="" coords="524,995,696,1036"/>
+<area shape="rect" id="node16" href="$struct_catch_1_1_matchers_1_1_floating_1_1_within_ulps_matcher.html" title=" " alt="" coords="524,201,696,243"/>
+<area shape="rect" id="node17" href="$class_catch_1_1_matchers_1_1_generic_1_1_predicate_matcher.html" title=" " alt="" coords="525,267,695,308"/>
+<area shape="rect" id="node18" href="$struct_catch_1_1_matchers_1_1_std_string_1_1_regex_matcher.html" title=" " alt="" coords="520,332,700,373"/>
+<area shape="rect" id="node19" href="$struct_catch_1_1_matchers_1_1_std_string_1_1_string_matcher_base.html" title=" " alt="" coords="520,397,700,439"/>
+<area shape="rect" id="node24" href="$struct_catch_1_1_matchers_1_1_vector_1_1_approx_matcher.html" title=" " alt="" coords="504,463,716,519"/>
+<area shape="rect" id="node25" href="$struct_catch_1_1_matchers_1_1_vector_1_1_contains_element_matcher.html" title=" " alt="" coords="522,543,698,599"/>
+<area shape="rect" id="node26" href="$struct_catch_1_1_matchers_1_1_vector_1_1_contains_matcher.html" title=" " alt="" coords="523,623,697,679"/>
+<area shape="rect" id="node27" href="$struct_catch_1_1_matchers_1_1_vector_1_1_equals_matcher.html" title=" " alt="" coords="505,703,715,759"/>
+<area shape="rect" id="node28" href="$struct_catch_1_1_matchers_1_1_vector_1_1_unordered_equals_matcher.html" title=" " alt="" coords="511,783,709,839"/>
+<area shape="rect" id="node20" href="$struct_catch_1_1_matchers_1_1_std_string_1_1_contains_matcher.html" title=" " alt="" coords="764,300,944,341"/>
+<area shape="rect" id="node21" href="$struct_catch_1_1_matchers_1_1_std_string_1_1_ends_with_matcher.html" title=" " alt="" coords="764,365,944,407"/>
+<area shape="rect" id="node22" href="$struct_catch_1_1_matchers_1_1_std_string_1_1_equals_matcher.html" title=" " alt="" coords="764,431,944,472"/>
+<area shape="rect" id="node23" href="$struct_catch_1_1_matchers_1_1_std_string_1_1_starts_with_matcher.html" title=" " alt="" coords="764,496,944,537"/>
+<area shape="rect" id="node29" href="$class_catch_1_1_matchers_1_1_impl_1_1_matcher_untyped_base.html" title=" " alt="" coords="23,235,177,276"/>
+</map>

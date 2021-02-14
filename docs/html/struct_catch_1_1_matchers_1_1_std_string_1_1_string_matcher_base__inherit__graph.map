@@ -1,0 +1,10 @@
+<map id="Catch::Matchers::StdString::StringMatcherBase" name="Catch::Matchers::StdString::StringMatcherBase">
+<area shape="rect" id="node1" title=" " alt="" coords="407,104,587,145"/>
+<area shape="rect" id="node5" href="$struct_catch_1_1_matchers_1_1_std_string_1_1_contains_matcher.html" title=" " alt="" coords="635,5,815,47"/>
+<area shape="rect" id="node6" href="$struct_catch_1_1_matchers_1_1_std_string_1_1_ends_with_matcher.html" title=" " alt="" coords="635,71,815,112"/>
+<area shape="rect" id="node7" href="$struct_catch_1_1_matchers_1_1_std_string_1_1_equals_matcher.html" title=" " alt="" coords="635,136,815,177"/>
+<area shape="rect" id="node8" href="$struct_catch_1_1_matchers_1_1_std_string_1_1_starts_with_matcher.html" title=" " alt="" coords="635,201,815,243"/>
+<area shape="rect" id="node2" href="$struct_catch_1_1_matchers_1_1_impl_1_1_matcher_base.html" title=" " alt="" coords="208,104,359,145"/>
+<area shape="rect" id="node3" href="$class_catch_1_1_matchers_1_1_impl_1_1_matcher_untyped_base.html" title=" " alt="" coords="5,71,160,112"/>
+<area shape="rect" id="node4" href="$struct_catch_1_1_matchers_1_1_impl_1_1_matcher_method.html" title=" " alt="" coords="7,136,158,177"/>
+</map>
