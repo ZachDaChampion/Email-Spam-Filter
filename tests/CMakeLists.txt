@@ -6,7 +6,7 @@ set(EXECUTABLE_OUTPUT_PATH ${BUILD_DIR}/test)
 add_library(catch IMPORTED INTERFACE)
 target_include_directories(catch INTERFACE ${LIB_DIR}/catch)
 
-add_executable(tests test.cpp test-hash.cpp)
+add_executable(tests test.cpp test-hash.cpp test-hash-table.cpp)
 target_link_libraries(tests catch hashtable)
 
 include(CTest)
